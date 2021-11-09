@@ -1,0 +1,26 @@
+Billing for clients on file: clients.txt
+John Smith Doe
+57 South Water St.
+Upper Darby, PA 19082
+Job 1: 1 hours 25 minutes
+Job 2: 2 hours 10 minutes
+Job 3: 0 hours 45 minutes
+Bill Amount: $195.00
+
+Jimmie Charleston Smith
+20 Monroe Drive
+Griffin, GA 30223
+Job 1: 2 hours 25 minutes
+Job 2: 2 hours 45 minutes
+Bill Amount: $232.50
+
+Griffie Dean Jackson
+521 Lake Forest Street
+Dearborn, MI 48124
+Job 1: 3 hours 0 minutes
+Job 2: 2 hours 25 minutes
+Job 3: 2 hours 15 minutes
+Job 4: 1 hours 45 minutes
+Job 5: 2 hours 35 minutes
+Bill Amount: $540.00
+
